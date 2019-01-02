@@ -1,4 +1,4 @@
-###每周一点canvas动画代码文件
+﻿###每周一点canvas动画代码文件
 如果你对canvas动画感兴趣，请关注我在[segementFault](https://segmentfault.com/u/worengjiuzaizheli)上的系列文章*<<每周一点canvas动画>>*
 
 目前已更新章节
@@ -67,4 +67,4 @@ _ _ _
 21. [《每周一点canvas动画》——万有引力](https://segmentfault.com/a/1190000006122800)
 
 
-> 转载引用，请注明出处，至少给个star吧！
+> 转载引用，请注明出处，至少给个star吧
